@@ -1,0 +1,23 @@
+---
+title: "John Reaves"
+image: "res/headshot2.jpg"
+about:
+    template: trestles
+    links:
+       - icon: envelope
+         text: Contact
+         href: "mailto:reavesjo@msu.edu"
+id: splash_page
+---
+
+:::{#about-block}
+
+<br><br><br><br>
+
+My name is John Reaves, and I am a fifth-year PhD candidate in the Department of
+Economics at Michigan State University. 
+
+My research interests lie within urban 
+economics, public economics, and industrial organization, primarily focused on
+how mobile Internet access changed the competitive landscape.
+:::

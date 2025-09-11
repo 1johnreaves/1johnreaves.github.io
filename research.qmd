@@ -1,0 +1,35 @@
+---
+---
+
+## Works in progress
+
+**"Where to Next? Mobile Broadband and Business Dynamics"**
+
+::: {style="font-size: 75%;"}
+I study the impact of mobile broadband access and smartphone adoption (together, "smartphone access") on
+business dynamics. Using point-of-interest data in conjunction with estimated 3G access, I find that smartphone
+access favors establishments and firms that were already prominent prior to this technology becoming available.
+Rollout decreased establishment churn and increased the proliferation of large regional and national firms. I also
+identify small positive effects on the likelihood that consumer-facing establishments remain open 1-3 years after
+entry. Regarding location decisions, I find no evidence to support a change in new entrants' distance to incumbent
+establishments larger than a few feet.
+:::
+
+**"Out of Bounds: An Examination of Portland, OR’s Urban Growth Boundary"**
+
+::: {style="font-size: 75%;"}
+Urban growth boundaries reduce the supply of developable land; economic intuition suggests that such policies
+will increase land prices within the boundary and lead to greater density of development. Using a series of
+expansions in Portland, OR’s urban growth boundary from 2008-2019, I conclude that zoning changes caused by
+annexation to the boundary led to a 67% increase in land value per acre and a 68% increase in total valuation for
+annexed parcels. Renovation and new construction likewise increase by 5-7 percentage points. Spillover effects
+on nearby parcels are negligible, and though newly-annexed areas do see about 18% more street intersections
+and 13% fewer parcels. The effects are largely concentrated in the period of zoning change, which may reflect
+(re)development in affected areas—not a lasting increase in local housing density.
+:::
+
+**"Mobile Broadband and Consumer Price Response”** [working title]
+
+**“Trip-taking and Amenity Exposure”** (with Andrew Earle)
+
+**“The Micro-Geography of Productivity, Density, and Sorting”** (with Oren Ziv)

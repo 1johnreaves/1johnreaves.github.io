@@ -1,0 +1,9 @@
+---
+title: "Side projects"
+---
+
+In learning how to use LaTeX and beamers, created a website intended to help 
+people come up with outlines for beamers quickly, using regular expressions. As 
+such, I call the project [QuikBeamer](https://quikbeamer.onrender.com/). 
+It's quite basic, and was last updated in 2022, but I hope it's useful!
+

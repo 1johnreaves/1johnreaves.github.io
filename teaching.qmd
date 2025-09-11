@@ -1,0 +1,26 @@
+---
+---
+
+I have served as a teaching assistant during most of my time at Michigan State, and had the privilege to teach courses twice---once online, and once in person.
+
+### Instructor
+
+* PPL 802 — Quantitative Methods in Public Policy II,  Spring 2024
+* EC 201 — Introduction to Microeconomics, Summer 2023
+
+### Teaching Assistant
+
+* EC 201 — Introduction to Microeconomics, Fall 2022-Fall 2023, Fall 2024
+* EC 301 — Intermediate Microeconomics, Spring 2022
+* EC 302 — Intermediate Macroeconomics, Fall 2021
+
+### Other
+
+I was also fortunate enough to be sponsored by MSU to give a boot camp in R, 
+aimed at economics graduate students. You can find the materials for the boot 
+camp in the following places:
+
+* [Session 1](https://mediaspace.msu.edu/media/t/1_biq5kvtp)
+* [Session 2](https://mediaspace.msu.edu/media/t/1_ljw6r4xw)
+* [Reference document](r-workshop.html)
+* [Zillow dataset](https://drive.google.com/file/d/1klJ7qO-W2wgRhv-5oZkgq2JeCcuAwgTI/view?usp=sharing)

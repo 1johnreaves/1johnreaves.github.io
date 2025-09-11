@@ -1,0 +1,36 @@
+project:
+  type: website
+  
+format: 
+  html: 
+    theme: flatly
+    toc: false
+
+website:
+  search: false
+  title: "John Reaves"
+  
+  navbar:
+    pinned: true
+    left:
+    - text: "Home"
+      href: index.qmd
+    - text: "Research"
+      href: research.qmd
+    - text: "Teaching"
+      href: teaching.qmd
+    - text: "CV"
+      href: cv.qmd
+    - text: "Side projects"
+      href: free-time.qmd
+    right:
+      - icon: github
+        href: https://github.com/1johnreaves
+      - icon: linkedin
+        href: https://www.linkedin.com/in/john-reaves-2b7a89154/
+      - icon: envelope
+        aria-label: email
+        href: "mailto:reavesjo@msu.edu" 
+
+
+
