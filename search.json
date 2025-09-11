@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "John Reaves",
+    "section": "",
+    "text": "My name is John Reaves, and I am a fifth-year PhD candidate in the Department of Economics at Michigan State University.\nMy research interests lie within urban economics, public economics, and industrial organization, primarily focused on how mobile Internet access changed the competitive landscape."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "John Reaves",
+    "section": "",
+    "text": "I have served as a teaching assistant during most of my time at Michigan State, and had the privilege to teach courses twice—once online, and once in person.\n\nInstructor\n\nPPL 802 — Quantitative Methods in Public Policy II, Spring 2024\nEC 201 — Introduction to Microeconomics, Summer 2023\n\n\n\nTeaching Assistant\n\nEC 201 — Introduction to Microeconomics, Fall 2022-Fall 2023, Fall 2024\nEC 301 — Intermediate Microeconomics, Spring 2022\nEC 302 — Intermediate Macroeconomics, Fall 2021\n\n\n\nOther\nI was also fortunate enough to be sponsored by MSU to give a boot camp in R, aimed at economics graduate students. You can find the materials for the boot camp in the following places:\n\nSession 1\nSession 2\nReference document\nZillow dataset"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "John Reaves",
+    "section": "",
+    "text": "“Where to Next? Mobile Broadband and Business Dynamics”\n\nI study the impact of mobile broadband access and smartphone adoption (together, “smartphone access”) on business dynamics. Using point-of-interest data in conjunction with estimated 3G access, I find that smartphone access favors establishments and firms that were already prominent prior to this technology becoming available. Rollout decreased establishment churn and increased the proliferation of large regional and national firms. I also identify small positive effects on the likelihood that consumer-facing establishments remain open 1-3 years after entry. Regarding location decisions, I find no evidence to support a change in new entrants’ distance to incumbent establishments larger than a few feet.\n\n“Out of Bounds: An Examination of Portland, OR’s Urban Growth Boundary”\n\nUrban growth boundaries reduce the supply of developable land; economic intuition suggests that such policies will increase land prices within the boundary and lead to greater density of development. Using a series of expansions in Portland, OR’s urban growth boundary from 2008-2019, I conclude that zoning changes caused by annexation to the boundary led to a 67% increase in land value per acre and a 68% increase in total valuation for annexed parcels. Renovation and new construction likewise increase by 5-7 percentage points. Spillover effects on nearby parcels are negligible, and though newly-annexed areas do see about 18% more street intersections and 13% fewer parcels. The effects are largely concentrated in the period of zoning change, which may reflect (re)development in affected areas—not a lasting increase in local housing density.\n\n“Mobile Broadband and Consumer Price Response” [working title]\n“Trip-taking and Amenity Exposure” (with Andrew Earle)\n“The Micro-Geography of Productivity, Density, and Sorting” (with Oren Ziv)"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "John Reaves",
+    "section": "",
+    "text": "Download current CV"
+  },
+  {
+    "objectID": "research.html#works-in-progress",
+    "href": "research.html#works-in-progress",
+    "title": "John Reaves",
+    "section": "",
+    "text": "“Where to Next? Mobile Broadband and Business Dynamics”\n\nI study the impact of mobile broadband access and smartphone adoption (together, “smartphone access”) on business dynamics. Using point-of-interest data in conjunction with estimated 3G access, I find that smartphone access favors establishments and firms that were already prominent prior to this technology becoming available. Rollout decreased establishment churn and increased the proliferation of large regional and national firms. I also identify small positive effects on the likelihood that consumer-facing establishments remain open 1-3 years after entry. Regarding location decisions, I find no evidence to support a change in new entrants’ distance to incumbent establishments larger than a few feet.\n\n“Out of Bounds: An Examination of Portland, OR’s Urban Growth Boundary”\n\nUrban growth boundaries reduce the supply of developable land; economic intuition suggests that such policies will increase land prices within the boundary and lead to greater density of development. Using a series of expansions in Portland, OR’s urban growth boundary from 2008-2019, I conclude that zoning changes caused by annexation to the boundary led to a 67% increase in land value per acre and a 68% increase in total valuation for annexed parcels. Renovation and new construction likewise increase by 5-7 percentage points. Spillover effects on nearby parcels are negligible, and though newly-annexed areas do see about 18% more street intersections and 13% fewer parcels. The effects are largely concentrated in the period of zoning change, which may reflect (re)development in affected areas—not a lasting increase in local housing density.\n\n“Mobile Broadband and Consumer Price Response” [working title]\n“Trip-taking and Amenity Exposure” (with Andrew Earle)\n“The Micro-Geography of Productivity, Density, and Sorting” (with Oren Ziv)"
+  },
+  {
+    "objectID": "free-time.html",
+    "href": "free-time.html",
+    "title": "Side projects",
+    "section": "",
+    "text": "In learning how to use LaTeX and beamers, created a website intended to help people come up with outlines for beamers quickly, using regular expressions. As such, I call the project QuikBeamer. It’s quite basic, and was last updated in 2022, but I hope it’s useful!"
+  }
+]
