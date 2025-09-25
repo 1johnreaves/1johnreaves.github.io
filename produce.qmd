@@ -8,11 +8,11 @@ This document should just...run everything. I hope.
 library(quarto)
 library(magrittr)
 
-lq <- list.files(pattern = '.qmd')
+lq <- list.files(pattern = '.qmd') %>% .[. != 'produce.qmd']
 for(qq in lq) quarto_render(qq)
 
-lf <- list.files('_site', pattern = '\\.', full.names = TRUE)
-file.copy(lf, to = '.', overwrite = TRUE)
+lf <- list.files('_site', pattern = '.', full.names = TRUE)
+file.copy(lf, to = '.', overwrite = TRUE, recursive = TRUE)
 
 # git stuff
 git2r::add(repo = '~/RStudio/1johnreaves.github.io/', path = '*')
