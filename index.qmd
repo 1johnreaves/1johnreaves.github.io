@@ -1,6 +1,6 @@
 ---
 title: "John Reaves"
-image: "res/headshot2.jpg"
+image: "res/headshot3.jpg"
 about:
     template: trestles
     links:
