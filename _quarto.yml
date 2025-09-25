@@ -9,7 +9,7 @@ format:
 website:
   search: false
   title: "John Reaves"
-  site-url: 'https://1johnreaves.github.io'
+  site-url: '1johnreaves.github.io'
   
   navbar:
     pinned: true
