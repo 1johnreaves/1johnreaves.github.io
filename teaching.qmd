@@ -1,4 +1,8 @@
 ---
+title: "Teaching"
+include-in-header:
+      - text: |
+          <meta name='description' content='The teaching history of John Reaves, PhD student in economics at Michigan State University (MSU). This includes a graduate course, PPL 802, and the IIT fellowship at James Madison College.'>
 ---
 
 I have served as a teaching assistant during most of my time at Michigan State, and had the privilege to teach courses twice---once online, and once in person.
@@ -15,6 +19,9 @@ I have served as a teaching assistant during most of my time at Michigan State, 
 * EC 302 — Intermediate Macroeconomics, Fall 2021
 
 ### Other
+
+I participated in the IIT Fellowship, a teaching fellowship organized by James 
+Madison College at MSU. 
 
 I was also fortunate enough to be sponsored by MSU to give a boot camp in R, 
 aimed at economics graduate students. You can find the materials for the boot 

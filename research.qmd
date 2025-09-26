@@ -1,4 +1,8 @@
 ---
+title: "Research"
+include-in-header:
+      - text: |
+          <meta name='description' content='The research agenda of John Reaves, PhD student in economics at Michigan State University (MSU). These include "Where to Next", about mobile broadband and how business competition was affected, and "Out of Bounds", an examination of the urban growth boundary (UGB) Portland, Oregon'>
 ---
 
 ## Works in progress

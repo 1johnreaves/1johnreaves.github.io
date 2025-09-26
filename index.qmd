@@ -8,6 +8,9 @@ about:
          text: Contact
          href: "mailto:reavesjo@msu.edu"
 id: splash_page
+include-in-header:
+      - text: |
+          <meta name='description' content='The home page of John Reaves, PhD student in economics at Michigan State University (MSU). He is interested in urban and public economics, industrial organization, and Internet access, especially mobile broadband.'>
 ---
 
 :::{#about-block}

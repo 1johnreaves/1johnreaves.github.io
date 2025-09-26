@@ -3,6 +3,9 @@ layout: page
 engine: knitr 
 resources:
   - "res/cv.pdf"
+include-in-header:
+      - text: |
+          <meta name='description' content='The curriculum vitae (CV) of John Reaves, PhD student in economics at Michigan State University (MSU).'>
 cv:
   pdf: "res/cv.pdf"
 ---

@@ -1,5 +1,8 @@
 ---
 title: "Side projects"
+include-in-header:
+      - text: |
+          <meta name='description' content='The side projects of John Reaves, PhD student in economics at Michigan State University (MSU). These projects include "QuikBeamer", a website created to make drafting LaTeX beamers simpler. It uses regular expressions.'>
 ---
 
 In learning how to use LaTeX and beamers, created a website intended to help 

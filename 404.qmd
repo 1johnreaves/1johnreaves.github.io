@@ -1,5 +1,8 @@
 ---
 title: "404"
+include-in-header:
+      - text: |
+          <meta name='description' content='This page cannot be found on this website.'>
 ---
 
 Page not found, sorry! Try the search or navigate back to the base website.
