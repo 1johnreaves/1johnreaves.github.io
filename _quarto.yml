@@ -25,6 +25,8 @@ website:
     - text: "Side projects"
       href: free-time.qmd
     right:
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=I3-PgJQAAAAJ
       - icon: github
         href: https://github.com/1johnreaves
       - icon: linkedin

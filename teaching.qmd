@@ -7,18 +7,30 @@ include-in-header:
 
 I have served as a teaching assistant during most of my time at Michigan State, and had the privilege to teach courses twice---once online, and once in person.
 
-### Instructor
+## Instructor
 
 * PPL 802 — Quantitative Methods in Public Policy II,  Spring 2024
-* EC 201 — Introduction to Microeconomics, Summer 2023
+* EC 201 — Introduction to Microeconomics, Summer 2023 (Online)
 
-### Teaching Assistant
+## Teaching Assistant
 
 * EC 201 — Introduction to Microeconomics, Fall 2022-Fall 2023, Fall 2024
 * EC 301 — Intermediate Microeconomics, Spring 2022
 * EC 302 — Intermediate Macroeconomics, Fall 2021
 
-### Other
+## Selected student feedback
+
+* "He always took the time to explain things in ways we could explain and never had a issue to help [one] on [one]."
+* "[The instructor] answered questions quickly and effectively." 
+<br><br>
+* PPL 802: 
+    * Course was well organized (100% agree)
+    * Created a supportive atmosphere for learning (77.8% agree)
+* EC 201: 
+    * Course was well organized (91.4% agree)
+    * Created a supportive atmosphere for learning (88.6% agree)
+
+## Other
 
 I participated in the IIT Fellowship, a teaching fellowship organized by James 
 Madison College at MSU. 

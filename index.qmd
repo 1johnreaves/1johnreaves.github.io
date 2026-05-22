@@ -15,16 +15,16 @@ include-in-header:
 
 :::{#about-block}
 
-<br>
+<!-- <br> -->
 
 Welcome!
 
 <br><br>
 
-My name is John Reaves, and I am a fifth-year PhD candidate in the Department of
-Economics at Michigan State University (MSU). 
+My name is John Reaves, and I am a PhD candidate in the Department of Economics
+at Michigan State University (MSU). I will be on the 2026-2027 job market.
 
-My research interests lie within urban 
-economics, public economics, and industrial organization, primarily focused on
-how mobile Internet access changed the competitive landscape.
+My research interests lie within urban economics, industrial organization, and
+public economics, especially how spatial effects play out. My dissertation
+primarily focuses on how mobile Internet access changed the retail landscape.
 :::

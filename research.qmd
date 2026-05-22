@@ -5,7 +5,41 @@ include-in-header:
           <meta name='description' content='The research agenda of John Reaves, PhD student in economics at Michigan State University (MSU). These include "Where to Next", about mobile broadband and how business competition was affected, and "Out of Bounds", an examination of the urban growth boundary (UGB) Portland, Oregon'>
 ---
 
+## Working papers
+
+[**“Trip-taking and Amenity Exposure”**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6511338) 
+(with [Andrew Earle](https://sites.google.com/view/earle-andrew/home))
+
+::: {style="font-size: 75%;"}
+When people travel, the amenities they are exposed to differ from the amenities at their home. We study how travel changes exposure to one amenity with wide-ranging impacts on well-being: temperature. Using cellphone-based mobility data, we compare the temperatures where people visit to the temperatures where they live. Across the contiguous United States in 2019, travel slightly increases exposure to pleasant temperatures (60-85F) while decreasing exposure to cold and heat. We explore heterogeneity across several dimensions. Travel tends to cool relatively warm cities---e.g., Phoenix, AZ---and warm cool cities---e.g., Minneapolis, MN---which can increase or decrease exposure to pleasant temperatures depending on the season. These exposure changes tend to be larger for high-income tracts. Our results suggest that travel could prove an important margin for climate adaptation. 
+:::
+
 ## Works in progress
+
+**"Price Check: Mobile Broadband and Consumer Price Response”** [JMP]
+
+::: {style="font-size: 75%;"}
+Smartphones provide a way for consumers to learn about both products and competitors at practically
+any time—and for firms to learn much more about consumers. It is therefore no surprise that the Internet
+transformed how consumers shop; by 2018, between 14% and 17% of retail dollars were spent online, with
+half of all e-commerce traffic coming from mobile devices. The bankruptcies of large retailers (such as
+Borders and Sears) in the 2010s demonstrate how important this consumer response can be, as retailers
+faced intense competition both with online shopping and with other brick-and-mortar retailers.
+
+In this paper, I examine the extent to which smartphone adoption and increasing mobile Internet
+coverage changed consumer behavior. I emulate Hersh, Lang, and Lang (2022) in using machine
+learning techniques to predict historical 3G coverage with the FCC’s Antenna Structure Registration
+(ASR) program. Combined with Nielsen scanner data, I determine consumers’ access to mobile Internet.
+I then estimate demand for a number of goods (including beer, nutritional supplements, potato chips,
+and toilet paper) following Berry, Levinsohn, and Pakes (1993) and Conlon and Gortmaker (2025) to
+estimate how Internet availability changed consumers’ price responsiveness. I find that 3G decreases the
+median own-price elasticity of these products, though not equally everywhere. This phenomenon may
+indicate a convergence of sorts, as consumers in more elastic markets became less price-elastic. This effect
+seems more pronounced in products that are more commonly purchased, such as potato chips and toilet
+paper, and less so in more infrequent purchases like supplements. Greater informational availability and
+increased targeted marketing is the most likely mechanism, with such marketing primarily focusing on
+the intensive margin of motivating repeat purchases of familiar goods/brands.
+:::
 
 **"Where to Next? Mobile Broadband and Business Dynamics"**
 
@@ -32,8 +66,4 @@ and 13% fewer parcels. The effects are largely concentrated in the period of zon
 (re)development in affected areas—not a lasting increase in local housing density.
 :::
 
-**"Mobile Broadband and Consumer Price Response”** [working title]
-
-**“Trip-taking and Amenity Exposure”** (with Andrew Earle)
-
-**“The Micro-Geography of Productivity, Density, and Sorting”** (with Oren Ziv)
+**“The Micro-Geography of Productivity, Density, and Sorting”** (with [Oren Ziv](https://orenziv.org/))
