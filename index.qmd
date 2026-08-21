@@ -10,7 +10,7 @@ about:
 id: splash_page
 include-in-header:
       - text: |
-          <meta name='description' content='The home page of John Reaves, PhD student in economics at Michigan State University (MSU). He is interested in urban and public economics, industrial organization, and Internet access, especially mobile broadband.'>
+          <meta name='description' content='The home page of John Reaves, PhD student in economics at Michigan State University (MSU). He is interested in urban economics, industrial organization, environmental economics, and Internet access, especially mobile broadband.'>
 ---
 
 :::{#about-block}
@@ -25,6 +25,6 @@ My name is John Reaves, and I am a PhD candidate in the Department of Economics
 at Michigan State University (MSU). I will be on the 2026-2027 job market.
 
 My research interests lie within urban economics, industrial organization, and
-public economics, especially how spatial effects play out. My dissertation
+environmental economics, especially how spatial effects play out. My dissertation
 primarily focuses on how mobile Internet access changed the retail landscape.
 :::
