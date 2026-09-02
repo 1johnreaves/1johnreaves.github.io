@@ -1,0 +1,3 @@
+If you plan to use this data, please cite my job market paper, "Mobile Broadband and Consumer Price Response", available at https://1johnreaves.github.io/res/Reaves_PriceCheck.pdf
+
+mb40/mb50/mb60 indicate the first year with coverage exceeding the stated numerical threshold. That is, mb40 indicates the first year exceeding 40% predicted coverage, mb50 does the same with a 50% threshold, and mb60 uses 60%. mb50 is the primary measure that I employ, and due to the intuitive strength of using majority coverage, is the recommended value to employ.
