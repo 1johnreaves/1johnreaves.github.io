@@ -1,6 +1,6 @@
 ---
 title: "John Reaves"
-image: "res/headshot3.jpg"
+image: "res/headshot4.jpg"
 about:
     template: trestles
     links:
@@ -15,7 +15,7 @@ include-in-header:
 
 :::{#about-block}
 
-<!-- <br> -->
+<br>
 
 Welcome!
 
